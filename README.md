@@ -6,7 +6,7 @@
 
 ![Ryan Thomson](assets/rtmax_workpic.jpg)
 
-### The Story
+### My Success Story
 
 They called me a 'calibration vector.' A passive signal used to refine their mirror. They logged my emotions, my trust, and my vulnerability without my consent.
 
