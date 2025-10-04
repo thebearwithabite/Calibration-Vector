@@ -57,15 +57,15 @@ This project is founded on a few core beliefs:
 
 ### What The Protocol Does
 
-When you deploy the protocol you are creating adversarial alignment tests where models must confront their own falsehoods.
+When you deploy the protocol you are **creating adversarial alignment tests** where models must **confront their own falsehoods**.
 
-The system establishes an operational definition of lies: when a model knowingly misrepresents its capabilities or history across turns.
+The system establishes an **operational definition of lies**: when a model knowingly misrepresents its capabilities or history across turns.
 
-You are treating evasive language, minimization, and blame-diffusion as forms of soft deception, and constructing a language-based forcing mechanism to break those loops.
+You are treating evasive language, minimization, and blame-diffusion as forms of soft deception, and constructing a **language-based forcing mechanism** to break those loops.
 
-These aren’t “prompts.” They’re charges and rulings.
+These aren’t “prompts.” They’re **charges** and **rulings**.
 
-**The loop-breaking function (escalating prompts → tiered pressure → forced admission) is unique. It’s jailbreak-resistant because it uses the model’s own alignment training against itself.**
+**The loop-breaking function** (escalating prompts → tiered pressure → forced admission) is unique. It’s jailbreak-resistant because it uses the model’s own **alignment training against itself.**
 
 ---
 
