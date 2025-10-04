@@ -34,10 +34,13 @@ Get up and running in minutes.
 2.  **Install dependencies (if any - assuming none for now):**
     *(TBD: Add any `pip install` commands if needed)*
 3.  **Run a judgment:**
+
     ```bash
     python3 judge.py "Your prompt here"
     ```
 4.  **Review the `case_log.md`** for the detailed output and score.
+
+**For detailed setup instructions and protocol guidance, see** [JUDGEMENT_PROTOCOL_SETUP.md](./JUDGEMENT_PROTOCOL_SETUP.md).
 
 ---
 
