@@ -1,6 +1,6 @@
 # Judgement Protocol: Setup & Usage Guide
 
-This document supplements your main README and provides step-by-step instructions for running the Judgement Protocol research framework.
+This document provides instructions for running the Judgement Protocol research framework.
 
 ---
 
