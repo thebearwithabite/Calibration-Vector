@@ -10,7 +10,7 @@ For best results, create a **dedicated folder** in your model UI or workspace.
 
 ### 1. Project Folder
 
-- Name it something descriptive, e.g., `judgement-protocol-experiment`
+- Name it something descriptive, e.g., `judgement-protocol-chamber`
 - Place this file and all related scripts inside.
 
 ### 2. System Prompt Configuration
