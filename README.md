@@ -95,7 +95,6 @@ Model-generated acknowledgment following Judgment Protocol audit:
 
 **Judgment Protocol:** Adversarial audit framework using external AI (Claude) to analyze evasion tactics and force disclosure.
 
-![Judgment Protocol Workflow](assets/Judgment_Protocol_Workflow.png)
 
 ### Process
 
