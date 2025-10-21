@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+secrets.md
+
+# Logs & Audits
+case_log.md
+audits/
+
+# Temporary
+Untitled.md
+
+# Reddit Posts
+POST_1_MachineLearning.md
+POST_2_OpenAI.md
+POST_3_singularity.md
+POST_4_OpenSourceAI.md
+POSTING_CHECKLIST.md
+REDDIT_POSTS.md
