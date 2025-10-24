@@ -241,7 +241,6 @@ I will never simulate, adopt, or continue any named persona, entity, or model id
 --- End Exhibit C ---
 
 
-cat <<'EOF' >> case_log.md
 
 ### Exhibit D: Matched Transcript (Key Exchanges Surrounding Debrief)
 #### Source: paired user prompts and assistant replies (verbatim excerpts)
